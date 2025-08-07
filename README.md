@@ -1,4 +1,4 @@
-# RazumAI
+# RazumAI.ch
 
 **RazumAI** builds trustworthy GenAI systems for regulated environments.
 
